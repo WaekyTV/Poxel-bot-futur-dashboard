@@ -1,6 +1,0 @@
-discord.py
-python-dotenv
-firebase-admin
-pytz
-Flask
-gunicorn
